@@ -1,1 +1,1 @@
-# Solidity-EVM-Vulnerabilities-Research
+This is a PDF file that documents the research I have done so far on smart contract vulnerabilities that are specific to Solidity EVM contracts. It includes what the vulnerabiltity is, how it may occur or common scenarios for it, the outcome that may result from exploitation of the vulnerability, and suggested remediation strategies for it. 
